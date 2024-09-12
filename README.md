@@ -9,6 +9,9 @@ Welcome to Zenkai-fit! This app is designed to power up your workouts by craftin
 - Track your progress and achieve your fitness goals
 - Boost your workouts with Zenkai's unique approach
 
+## View the app 👇
+- [Zenkai-Fit](https://zenkai-fit.netlify.app/)
+
 ## Getting Started
 
 Follow these steps to get Zenkai-fit up and running on your local machine.
